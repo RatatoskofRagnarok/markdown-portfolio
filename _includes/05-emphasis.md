@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am **bold** and good at insulting both dragons and eagles in order to save the world!
+I also *know everything*, yes **everything**. I see it all as I climb up and down Yggdrasil.
